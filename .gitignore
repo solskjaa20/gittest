@@ -1,6 +1,6 @@
 .classpath 
 .git 
- .project 
- .settings 
- .springBeans 
+.project 
+.settings 
+.springBeans 
 target 
